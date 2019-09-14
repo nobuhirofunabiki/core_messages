@@ -13,6 +13,10 @@ add_message_files(
     FILES
         RobotPathOverall.msg
         RobotPathEdge.msg
+        PoseGraph.msg
+        PoseGraphNode.msg
+        PoseGraphEdge.msg
+        RangeMeasurementWithPoseNode.msg
 )
 
 generate_messages(
