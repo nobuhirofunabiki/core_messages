@@ -4,6 +4,12 @@ Header header
 uint64 key
 # gtsam::Key that encodes both a char and the int
 
+int32 type 
+
+# Type enums
+int32 ODOM          = 0
+int32 RANGE_SOURCE  = 1
+
 # UUID for artifacts and UWB nodes where relevant
 string ID
 
