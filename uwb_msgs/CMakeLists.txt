@@ -11,6 +11,7 @@ add_message_files(
         msg
     FILES
         UwbSignal.msg
+        Anchor.msg
 )
 
 generate_messages(DEPENDENCIES std_msgs)
