@@ -10,6 +10,7 @@
     
     <exec_depend>pose_graph_msgs</exec_depend>
     <exec_depend>uwb_msgs</exec_depend>
+    <exec_depend>agent_state_msgs</exec_depend>
 
     <export>
         <metapackage/>
