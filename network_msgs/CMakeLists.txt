@@ -13,6 +13,8 @@ add_message_files(
     FILES
         NetworkConnectivity.msg
         TwoNodesConnectivity.msg
+        RangeTwoNodes.msg
+        RangeMeasurements.msg
 )
 
 generate_messages(
