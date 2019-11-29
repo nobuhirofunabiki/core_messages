@@ -1,3 +1,3 @@
 bool b_is_connected
-string from
-string to
+uint32 from
+uint32 to

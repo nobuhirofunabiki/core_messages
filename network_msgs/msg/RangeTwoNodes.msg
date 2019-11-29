@@ -1,4 +1,4 @@
 float32 range
 float32 noise_sigma
-string id_from
-string id_to
+uint32 id_from
+uint32 id_to
